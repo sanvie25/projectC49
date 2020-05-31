@@ -1,0 +1,23 @@
+H1{
+    COLOR : #ff0000 
+}
+.HEADER{
+    background-color:cadetblue ;
+    DISPLAY:FLEX;
+    justify-content: space-evenly ;
+}
+.GRID{
+    DISPLAY:FLEX;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.FOOTER{
+    DISPLAY:FLEX;
+    justify-content:flex-end;
+}
+P,H2{
+    text-align:center ;
+}
+BODY{
+    background-color:#808080 ;
+}
